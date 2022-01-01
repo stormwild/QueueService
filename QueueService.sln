@@ -7,8 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueService.Worker", "Queu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{26814273-F8B4-4E77-8185-0340B60738BA}"
 	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChannelSample", "ChannelSample\ChannelSample.csproj", "{D6C36831-E293-4B67-9A0A-28EF7B0BD923}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +23,10 @@ Global
 		{542BB385-7750-44E5-A8D6-358168386A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{542BB385-7750-44E5-A8D6-358168386A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{542BB385-7750-44E5-A8D6-358168386A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C36831-E293-4B67-9A0A-28EF7B0BD923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C36831-E293-4B67-9A0A-28EF7B0BD923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C36831-E293-4B67-9A0A-28EF7B0BD923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C36831-E293-4B67-9A0A-28EF7B0BD923}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
