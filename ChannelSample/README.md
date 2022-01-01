@@ -11,3 +11,5 @@
 [Understanding how to use Task and ValueTask](https://www.youtube.com/watch?v=fj-LVS8hqIE)
 
 [Understanding the Whys, Whats, and Whens of ValueTask](https://devblogs.microsoft.com/dotnet/understanding-the-whys-whats-and-whens-of-valuetask/)
+
+[Use System.IO.Pipelines and System.Threading.Channels APIs to Boost Performance](https://itnext.io/use-system-io-pipelines-and-system-threading-channels-apis-to-boost-performance-832d7ab7c719)
